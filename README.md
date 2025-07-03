@@ -1,6 +1,6 @@
-# Stock Trading Signals Dashboard
+# Stock Trading Signals
 
-A simple stock market analysis application using 10-day moving average with ±1 standard deviation Bollinger Bands strategy.
+A simple stock market analysis application using 10-day moving average with ±1 standard deviation strategy.
 
 ## Features
 
