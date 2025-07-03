@@ -1,5 +1,3 @@
-# Stocks
-
 # Stock Trading Signals Dashboard
 
 A simple stock market analysis application using 10-day moving average with ±1 standard deviation Bollinger Bands strategy.
@@ -20,8 +18,9 @@ A simple stock market analysis application using 10-day moving average with ±1 
 ## How to Run
 
 ### 1. Install Requirements
+```
 pip install -r requirements.txt
-
+```
 
 ### 2. Run Streamlit App
 ```bash
